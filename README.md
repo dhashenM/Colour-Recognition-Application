@@ -1,2 +1,2 @@
-# Colour Recognition Application
+This project was created as part of the 'Final Year Project' module coursework. This Colour Recognition application includes functionalities such as identifying a single colour in the camera’s field of view, tracking a specific colour chosen by the user and recognizing and displaying the most dominant colours present in the camera’s field of view, all in real time. It implements concepts such as Artificial Intelligence and Computer Vision with the OpenCV library, which was primarily used here to implement image processing and facilitate colour recognition.
  
